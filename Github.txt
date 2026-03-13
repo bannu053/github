@@ -1,0 +1,26 @@
+Step 1:
+#Initialize Git
+>>git init
+___________________
+
+Step 2: 
+#Add all folders
+>>git add .
+__________________
+
+Step 3:
+#Commit
+>>git commit -m "added study folders"
+_______________________________
+
+Step 4:
+# Connect your GitHub repository
+#Your repo is: https://github.com/repository_name/notes.git
+
+>> git remote add origin https://github.com/bannu053/notes.git
+____________________________________
+
+Step 5:
+# Push everything
+>> git branch -M main
+>> git push -u origin main
